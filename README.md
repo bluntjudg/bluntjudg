@@ -39,7 +39,7 @@ Cloud-based AI services and deployment
 
 # 🛠 Projects
 
-Here are a few projects I've been worked on:
+Here are a few projects I've worked on:
 
 Self GPT -> Describes about me 😉.
 
