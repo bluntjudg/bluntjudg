@@ -16,8 +16,8 @@ Interests: Artificial Intelligence, Machine Learning, Python, Data Science, Inno
 Education: Currently pursuing studies in AI and Machine Learning
 
 Certifications: 1. Oracle Cloud Infrastructure of AI certification
+                2. intern at Mukesoft software solutions company
 
-                2. Intern at Mukesoft Software based company
 
 # 💼 Skills
 
