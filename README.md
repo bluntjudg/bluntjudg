@@ -49,7 +49,7 @@ Weather app -> using API get the location's weather report.
 
 # 📫 How to Reach Me
 
-LinkedIn: Ayush S. Pangaonkar
+LinkedIn: [Ayush S. Pangaonkar](https://www.linkedin.com/in/ayush-s-pangaonkar/)
 
 Email: ayushspangaonkar0710@gmail.com
 
