@@ -3,7 +3,7 @@
 👨‍💻 AI & ML Buff | Python Enthusiast | Build, Learn, Grow | Innovator & Builder | Lifelong Learner
 
 Welcome to my GitHub profile! 
-I'm a 19-year-old AI and ML enthusiast, passionate about leveraging technology to create innovative solutions and tackle real-world problems. With a strong foundation in Python, I love building and developing cutting-edge projects.
+I'm a 20-year-old AI and ML enthusiast, passionate about leveraging technology to create innovative solutions and tackle real-world problems. With a strong foundation in Python, I love building and developing cutting-edge projects.
 
 # 🚀 About Me
 
