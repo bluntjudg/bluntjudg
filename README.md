@@ -1,60 +1,110 @@
-# Hi there, I'm Ayush S. Pangaonkar 👋
+<h1 align="center">Hi 👋, I'm Ayush S. Pangaonkar</h1>
+<h3 align="center">AI Systems Builder | Applied ML Engineer | Automation Architect</h3>
+<p align="center">
+  <i>Build. Break. Learn. Improve. Repeat.</i>
+</p>
 
-👨‍💻 AI & ML Buff | Python Enthusiast | Build, Learn, Grow | Innovator & Builder | Lifelong Learner
+---
 
-Welcome to my GitHub profile! 
-I'm a 20-year-old AI and ML enthusiast, passionate about leveraging technology to create innovative solutions and tackle real-world problems. With a strong foundation in Python, I love building and developing cutting-edge projects.
+### 🧠 About Me
 
-# 🚀 About Me
+I'm an AI & ML engineer who focuses on building intelligent systems not just models.
 
-Name: Ayush S. Pangaonkar
+I work at the intersection of:
+- Large Language Models
+- Backend Engineering
+- Automation Pipelines
+- Production-Ready ML Systems
 
-Age: 22
+I enjoy designing AI systems that reason over data, automate workflows, and integrate into real-world business use cases.
 
-Interests: Artificial Intelligence, Machine Learning, Python, Data Science, Innovation, Technology
+---
 
-Education: Currently pursuing studies in AI and Machine Learning
+### 🚀 What I’ve Built
 
-Certifications: 1. Oracle Cloud Infrastructure of AI certification
-                2. intern at Mukesoft software solutions company
+🔹 **AI Automation Systems**
+- Reddit automation with structured engagement logic  
+- LinkedIn lead generation workflows using n8n  
+- Autonomous AI pipelines for data extraction & qualification  
+- Multi-step decision systems with fallback handling  
 
+🔹 **Chat with Database**
+- Natural Language → SQL translation  
+- Layered validation & execution architecture  
+- Structured and readable output formatting  
+- Built to remove friction between users and structured data  
 
-# 💼 Skills
+🔹 **LLM & Agent Systems**
+- LangChain pipelines  
+- LangGraph stateful workflows  
+- Modular control patterns  
+- Tool-calling and reasoning-based agents  
 
-Programming Languages: Python, R, Javascript
+---
 
-Technologies: Machine Learning, Deep Learning, Data Analysis, Cloud Computing (Oracle Cloud)
+### 🔬 Hands-On AI Engineering
 
-Tools: Jupyter Notebook, TensorFlow, Keras, Scikit-Learn, Pandas, NumPy, Node.js
+Practical experience with:
 
-Soft Skills: Problem Solving, Collaboration, Continuous Learning, Leadership
+- Vector databases (Pinecone, Weaviate, Chroma)  
+- Embeddings & semantic search optimization  
+- Prompt engineering at scale  
+- Model fine-tuning workflows  
+- Custom AI architectures  
+- ML training & deployment pipelines  
+- Strong AI/ML fundamentals  
 
-# 🌱 I’m Currently Learning
+---
 
-Advanced Machine Learning techniques
+### 📚 Currently Deep Diving Into
 
-Deep Learning frameworks and applications
+- Retrieval-Augmented Generation (RAG) pipelines  
+- Hybrid retrieval strategies  
+- Advanced embedding optimization  
+- Stateful multi-agent orchestration  
+- Efficient LLM system design  
 
-Cloud-based AI services and deployment
+---
 
-# 🛠 Projects
+### 🛠 Tech Stack
 
-Here are a few projects I've worked on:
+**Languages:**  
+Python | JavaScript | R  
 
-Self GPT -> Describes about me 😉.
+**AI/ML:**  
+TensorFlow | Keras | Scikit-Learn | Pandas | NumPy  
 
-Human Face detection -> input camera detects the human face. 
+**LLM & Agents:**  
+LangChain | LangGraph  
 
-Weather app -> using API get the location's weather report.
+**Automation & Backend:**  
+Node.js | REST APIs | n8n | Workflow Orchestration  
 
-# 📫 How to Reach Me
+**Cloud:**  
+Oracle Cloud Infrastructure (AI Certified)  
 
-LinkedIn: [Ayush S. Pangaonkar](https://www.linkedin.com/in/ayush-s-pangaonkar/)
+**Tools:**  
+Linux | Git | Jupyter | VS Code  
 
-Email: ayushspangaonkar0710@gmail.com
+---
 
-# 🤝 Let's Connect
+### 📈 Philosophy 
 
-I'm always excited to connect with like-minded individuals and explore opportunities for collaboration. Feel free to reach out to me on LinkedIn or via email!
+Build systems.  
+Design for scale.  
+Automate intelligently.  
+Keep learning.
 
-Keep learning , keep growing....🔃📈
+---
+
+### 📫 Connect With Me
+
+LinkedIn: Ayush S. Pangaonkar
+
+Email: ayushspangaonkar0710@gmail.com  
+
+---
+
+<p align="center">
+  <i>Turning AI from concept → system → product.</i>
+</p>
