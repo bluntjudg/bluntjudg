@@ -9,7 +9,7 @@ I'm a 20-year-old AI and ML enthusiast, passionate about leveraging technology t
 
 Name: Ayush S. Pangaonkar
 
-Age: 20
+Age: 22
 
 Interests: Artificial Intelligence, Machine Learning, Python, Data Science, Innovation, Technology
 
